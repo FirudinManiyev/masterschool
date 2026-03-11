@@ -1,1 +1,9 @@
 @import "tailwindcss";
+@import "./theme.css";
+@import "./layout.css";
+
+body {
+    background: var(--color-background);
+    color: var(--color-text);
+    font-family: system-ui, sans-serif;
+}

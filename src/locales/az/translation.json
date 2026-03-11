@@ -1,0 +1,13 @@
+{
+    "navbar": {
+        "home": "Ana səhifə",
+        "about": "Haqqımızda",
+        "courses": "Kurslar",
+        "contact": "Əlaqə"
+    },
+    "hero": {
+        "title": "Gələcəyin peşələrini öyrən",
+        "subtitle": "MasterSchool ilə texnologiya dünyasına addım at",
+        "button": "Kurslara bax"
+    }
+}

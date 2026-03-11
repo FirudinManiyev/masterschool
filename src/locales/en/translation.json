@@ -1,0 +1,13 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "courses": "Courses",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Learn the professions of the future",
+        "subtitle": "Step into the world of technology with MasterSchool",
+        "button": "View courses"
+    }
+}
