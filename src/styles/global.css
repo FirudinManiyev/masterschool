@@ -1,9 +1,46 @@
 @import "tailwindcss";
 @import "./theme.css";
-@import "./layout.css";
+
+/* body */
 
 body {
-    background: var(--color-background);
+    background: var(--color-bg);
     color: var(--color-text);
     font-family: system-ui, sans-serif;
+}
+
+/* container */
+
+.container-custom {
+    max-width: 1200px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+/* navbar link animation */
+
+.nav-link {
+    position: relative;
+    transition: color .2s;
+}
+
+.nav-link:hover {
+    color: var(--color-primary);
+}
+
+.nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: var(--color-primary);
+    transition: width .3s;
+}
+
+.nav-link:hover::after {
+    width: 100%;
 }

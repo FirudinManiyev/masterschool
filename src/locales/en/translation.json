@@ -2,12 +2,17 @@
     "navbar": {
         "home": "Home",
         "about": "About",
-        "courses": "Courses",
+        "services": "Services",
+        "team": "Team",
+        "faq": "FAQ",
         "contact": "Contact"
     },
     "hero": {
-        "title": "Learn the professions of the future",
-        "subtitle": "Step into the world of technology with MasterSchool",
-        "button": "View courses"
+        "badge": "BUILD YOUR FUTURE WITH US",
+        "title1": "The Center of",
+        "title2": "Quality Education",
+        "description": "Get closer to your goals with university preparation, master's preparation and foreign language courses.",
+        "apply": "Apply Now",
+        "more": "Learn More"
     }
 }

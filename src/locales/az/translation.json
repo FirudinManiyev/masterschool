@@ -2,12 +2,18 @@
     "navbar": {
         "home": "Ana səhifə",
         "about": "Haqqımızda",
-        "courses": "Kurslar",
+        "services": "Xidmətlər",
+        "team": "Komanda",
+        "faq": "FAQ",
+        "branches": "Filiallar",
         "contact": "Əlaqə"
     },
     "hero": {
-        "title": "Gələcəyin peşələrini öyrən",
-        "subtitle": "MasterSchool ilə texnologiya dünyasına addım at",
-        "button": "Kurslara bax"
+        "badge": "GƏLƏCƏYİNİ BİZİMLƏ QUR",
+        "title1": "Təhsildə Keyfiyyətin",
+        "title2": "Mərkəzi Ünvanı",
+        "description": "Abituriyent hazırlığı, Magistratura və Xarici dil kursları ilə hədəflərinizə bir addım daha yaxın olun. Peşəkar müəllim heyəti və müasir metodika.",
+        "apply": "İndi Müraciət Et",
+        "more": "Daha Ətraflı"
     }
 }

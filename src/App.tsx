@@ -1,17 +1,23 @@
-import Navbar from "./components/layout/Navbar/Navbar";
+import Navbar from "./components/layout/Navbar/Navbar"
+import Hero from "./sections/hero/Hero"
 
 function App() {
+
   return (
+
     <>
       <Navbar />
 
-      <div className="container-custom pt-32">
-        <h1 className="text-4xl font-bold mt-20">
-          MasterSchool Landing Page
-        </h1>
-      </div>
+      <main className="pt-20">
+
+        <Hero />
+
+      </main>
+
     </>
-  );
+
+  )
+
 }
 
-export default App;
+export default App

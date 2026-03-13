@@ -1,11 +1,37 @@
 :root {
+
+    /* Primary colors */
+
     --color-primary: #2563eb;
-    --color-primary-light: #3b82f6;
-    --color-background: #ffffff;
+    --color-primary-hover: #1d4ed8;
+
+    /* Backgrounds */
+
+    --color-bg: #ffffff;
+    --color-bg-secondary: #f8fafc;
+
+    /* Text */
+
     --color-text: #0f172a;
+    --color-text-secondary: #475569;
+
+    /* Border */
+
+    --color-border: #e2e8f0;
+
 }
 
+
+/* DARK MODE */
+
 .dark {
-    --color-background: #0f172a;
+
+    --color-bg: #020617;
+    --color-bg-secondary: #0f172a;
+
     --color-text: #f1f5f9;
+    --color-text-secondary: #94a3b8;
+
+    --color-border: #1e293b;
+
 }
