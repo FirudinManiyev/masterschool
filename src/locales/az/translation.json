@@ -6,7 +6,11 @@
         "team": "Komanda",
         "faq": "FAQ",
         "branches": "Filiallar",
-        "contact": "Əlaqə"
+        "contact": "Əlaqə",
+        "logoAlt": "MasterSchool loqosu",
+        "changeLanguageAria": "Dili dəyiş",
+        "toggleThemeAria": "Rəng mövzusunu dəyiş",
+        "toggleMenuAria": "Mobil menyunu aç və ya bağla"
     },
     "hero": {
         "badge": "GƏLƏCƏYİNİ BİZİMLƏ QUR",
@@ -15,6 +19,76 @@
         "description": "Abituriyent hazırlığı, Magistratura və Xarici dil kursları ilə hədəflərinizə bir addım daha yaxın olun. Peşəkar müəllim heyəti və müasir metodika.",
         "apply": "İndi Müraciət Et",
         "more": "Daha Ətraflı",
-        "slogan": "İnamla öyrən, biliklə lider ol."
+        "slogan": "İnamla öyrən, biliklə lider ol.",
+        "chipLanguages": "EN • AZ • RU",
+        "chipPractice": "Canlı Praktika Dərsləri",
+        "chipCareer": "Karyera Yönümlü Təhsil",
+        "imageAlt": "MasterSchool əsas vizualı"
+    },
+    "about": {
+        "cardTitle": "About",
+        "cardSubtitle": "Masterschool",
+        "cardCaption": "GƏLƏCƏYİN BİLİKDƏN BAŞLAYIR",
+        "title": "MasterSchool Nədir?",
+        "description": "MasterSchool, təhsil sahəsində uzun illərin təcrübəsinə malik olan peşəkar komanda tərəfindən yaradılmışdır. Bizim əsas məqsədimiz tələbələrimizə yalnız bilik vermək deyil, həm də onların şəxsi inkişafına töhfə verməkdir.",
+        "statResultValue": "98%",
+        "statResultLabel": "Qəbul Nəticəsi",
+        "statTeacherValue": "50+",
+        "statTeacherLabel": "Peşəkar Müəllim",
+        "imageAlt": "MasterSchool haqqında bölməsinin şəkli"
+    },
+    "services": {
+        "title": "Xidmətlərimiz",
+        "subtitle": "Hər yaş qrupuna və hədəfə uyğun ixtisaslaşmış proqramlar",
+        "more": "Ətraflı",
+        "cards": [
+            {
+                "title": "Abituriyent",
+                "desc": "Ali məktəblərə hazırlıq üzrə bütün qruplar üçün peşəkar proqram.",
+                "details": "Fənn üzrə mərhələli plan, həftəlik sınaqlar və fərdi inkişaf analizi ilə nəticəyönümlü hazırlıq."
+            },
+            {
+                "title": "Magistratura",
+                "desc": "Məntiq, informatika və xarici dil üzrə intensiv hazırlıq kursları.",
+                "details": "Mövzu mərkəzli tədris, sürətli test texnikası və real imtahan formatında məşqlərlə tam hazırlıq."
+            },
+            {
+                "title": "Dövlət Qulluğu",
+                "desc": "Dövlət qulluğu imtahanlarına hazırlıq üçün xüsusi proqram.",
+                "details": "Qanunvericilik, məntiq və situasiya sualları üzrə strukturlaşdırılmış dərslər və praktiki bloklar."
+            },
+            {
+                "title": "Miq və Sertifikasiya",
+                "desc": "Miq və beynəlxalq sertifikasiya imtahanlarına hazırlıq kursları.",
+                "details": "Müəllimlər üçün metodik yanaşma, sual bankı üzərində intensiv məşq və imtahan strategiyası."
+            },
+            {
+                "title": "İELTS",
+                "desc": "IELTS imtahanına hazırlıq üçün danışıq və qrammatika dərsləri.",
+                "details": "Speaking, writing və listening modulları üzrə mentor dəstəyi və band score yüksəltməyə fokus."
+            },
+            {
+                "title": "Məktəbəqədər",
+                "desc": "3-6 yaş arası uşaqlar üçün erkən inkişaf proqramı.",
+                "details": "Oyun əsaslı öyrənmə, nitq və məntiq inkişafı, həmçinin məktəbə adaptasiya bacarıqları."
+            }
+        ]
+    },
+    "team": {
+        "title": "Komandamız",
+        "subtitle": "Sizi uğura aparan peşəkar müəllim və mütəxəssis heyətimiz",
+        "dragHint": "Kartları sürüşdürərək komandamızı kəşf edin",
+        "prev": "Əvvəlki müəllimlər",
+        "next": "Növbəti müəllimlər",
+        "badge": "Mütəxəssis",
+        "roles": [
+            "Riyaziyyat müəllimi",
+            "İnformatika müəllimi",
+            "İngilis dili müəllimi",
+            "Mentor və kurator",
+            "Məntiq müəllimi",
+            "İmtahan hazırlığı üzrə mütəxəssis",
+            "Akademik inkişaf rəhbəri"
+        ]
     }
 }

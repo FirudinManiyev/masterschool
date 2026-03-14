@@ -3,7 +3,8 @@ import { useTranslation } from "react-i18next"
 import { AnimatePresence, motion } from "framer-motion"
 import { FiMoon, FiSun, FiChevronDown, FiMenu, FiX } from "react-icons/fi"
 import { ThemeContext } from "../../../context/theme/ThemeContext"
-import logoImage from "../../../assets/masterschool_logo.png"
+import darkLogoImage from "../../../assets/masterschool_logo.png"
+import lightLogoImage from "../../../assets/masterschool_logo2.png"
 
 const Navbar = () => {
 
@@ -30,14 +31,10 @@ const Navbar = () => {
             <div className="container-custom flex h-20 items-center justify-between">
                 <a href="#home" className="flex items-center gap-3" aria-label="MasterSchool home">
                     <img
-                        src={logoImage}
-                        alt="MasterSchool Logo"
+                        src={theme === "dark" ? darkLogoImage : lightLogoImage}
+                        alt={t("navbar.logoAlt")}
                         className="h-14 w-auto object-contain md:h-16"
                     />
-                    <span className="hidden text-xl font-extrabold leading-none tracking-tight md:block">
-                        <span className="text-slate-900 dark:text-white">Master</span>
-                        <span className="text-blue-600">School</span>
-                    </span>
                 </a>
 
                 <nav className="hidden items-center gap-9 text-base font-semibold text-slate-700 dark:text-slate-200 lg:flex">
@@ -60,7 +57,7 @@ const Navbar = () => {
                         <button
                             onClick={() => setLangOpen(!langOpen)}
                             className="group flex items-center gap-1 rounded-xl border border-slate-200 bg-white/80 px-3 py-2 text-sm font-bold text-slate-700 transition-all duration-300 hover:-translate-y-0.5 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700 hover:shadow-md dark:border-slate-700 dark:bg-slate-900/70 dark:text-slate-200 dark:hover:border-blue-500/40 dark:hover:bg-slate-800"
-                            aria-label="Change language"
+                            aria-label={t("navbar.changeLanguageAria")}
                         >
                             {i18n.language.toUpperCase()}
                             <FiChevronDown size={16} className={`transition-transform duration-300 ${langOpen ? "rotate-180" : "group-hover:translate-y-0.5"}`} />
@@ -83,7 +80,7 @@ const Navbar = () => {
                     <button
                         onClick={toggleTheme}
                         className="group rounded-xl border border-slate-200 bg-white/80 p-2.5 text-lg text-slate-700 transition-all duration-300 hover:-translate-y-0.5 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600 hover:shadow-md dark:border-slate-700 dark:bg-slate-900/70 dark:text-slate-200 dark:hover:border-blue-500/40 dark:hover:bg-slate-800"
-                        aria-label="Toggle color theme"
+                        aria-label={t("navbar.toggleThemeAria")}
                     >
                         <span className="block transition-transform duration-300 group-hover:rotate-12 group-hover:scale-110">
                             {theme === "dark" ? <FiSun /> : <FiMoon />}
@@ -93,7 +90,7 @@ const Navbar = () => {
                     <button
                         className="text-2xl text-slate-700 dark:text-slate-200 lg:hidden"
                         onClick={() => setMenuOpen(!menuOpen)}
-                        aria-label="Toggle mobile menu"
+                        aria-label={t("navbar.toggleMenuAria")}
                     >
                         <motion.span
                             initial={false}

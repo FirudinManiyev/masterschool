@@ -5,7 +5,11 @@
         "services": "Services",
         "team": "Team",
         "faq": "FAQ",
-        "contact": "Contact"
+        "contact": "Contact",
+        "logoAlt": "MasterSchool logo",
+        "changeLanguageAria": "Change language",
+        "toggleThemeAria": "Toggle color theme",
+        "toggleMenuAria": "Toggle mobile menu"
     },
     "hero": {
         "badge": "BUILD YOUR FUTURE WITH US",
@@ -14,6 +18,76 @@
         "description": "Get closer to your goals with university preparation, master's preparation and foreign language courses.",
         "apply": "Apply Now",
         "more": "Learn More",
-        "slogan": "Learn with confidence, lead with knowledge."
+        "slogan": "Learn with confidence, lead with knowledge.",
+        "chipLanguages": "EN • AZ • RU",
+        "chipPractice": "Live Practice Sessions",
+        "chipCareer": "Career-Oriented Learning",
+        "imageAlt": "MasterSchool hero visual"
+    },
+    "about": {
+        "cardTitle": "About",
+        "cardSubtitle": "Masterschool",
+        "cardCaption": "WHERE FUTURE BEGINS WITH KNOWLEDGE",
+        "title": "What Is MasterSchool?",
+        "description": "MasterSchool was created by a professional team with years of experience in education. Our main goal is not only to teach students, but also to support their personal growth.",
+        "statResultValue": "98%",
+        "statResultLabel": "Admission Result",
+        "statTeacherValue": "50+",
+        "statTeacherLabel": "Professional Teachers",
+        "imageAlt": "About section image of MasterSchool"
+    },
+    "services": {
+        "title": "Our Services",
+        "subtitle": "Specialized programs for every age group and learning goal",
+        "more": "Details",
+        "cards": [
+            {
+                "title": "University Prep",
+                "desc": "Professional preparation program for all groups aiming for university admission.",
+                "details": "Structured subject roadmap, weekly assessments, and personalized feedback to maximize admission results."
+            },
+            {
+                "title": "Master's Prep",
+                "desc": "Intensive courses in logic, informatics, and foreign language for master's exams.",
+                "details": "Exam-focused modules, speed techniques, and mock sessions designed around real test patterns."
+            },
+            {
+                "title": "Civil Service",
+                "desc": "Special preparation program for civil service examinations and public sector careers.",
+                "details": "Targeted legal, analytical, and scenario-based training aligned with civil service exam requirements."
+            },
+            {
+                "title": "MIG & Certification",
+                "desc": "Targeted preparation courses for MIG and international certification exams.",
+                "details": "Methodical coaching, exam simulations, and strategy-based mentoring for stronger certification outcomes."
+            },
+            {
+                "title": "IELTS",
+                "desc": "IELTS-focused speaking, listening, reading, writing, and grammar training.",
+                "details": "Band score improvement plans with mentor reviews, timed practice, and individual speaking feedback."
+            },
+            {
+                "title": "Preschool",
+                "desc": "Early development program for children aged 3-6 with interactive learning activities.",
+                "details": "Play-based sessions that support speech, logic, social adaptation, and confident school readiness."
+            }
+        ]
+    },
+    "team": {
+        "title": "Our Team",
+        "subtitle": "Meet the expert educators and mentors who guide your success",
+        "dragHint": "Swipe through cards to explore our specialists",
+        "prev": "Previous teachers",
+        "next": "Next teachers",
+        "badge": "Specialist",
+        "roles": [
+            "Mathematics Instructor",
+            "Informatics Instructor",
+            "English Language Instructor",
+            "Mentor and Curator",
+            "Logic Instructor",
+            "Exam Preparation Specialist",
+            "Academic Development Lead"
+        ]
     }
 }

@@ -1,14 +1,38 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom"
+
 import Navbar from "./components/layout/Navbar/Navbar"
 import Hero from "./sections/hero/Hero"
+import About from "./sections/about/About"
+import Services from "./sections/services/Services"
+import Team from "./sections/team/Team"
 
-function App() {
+import NotFound from "./pages/NotFound"
+
+function Home() {
   return (
     <>
       <Navbar />
       <main className="min-h-screen pt-20">
         <Hero />
+        <About />
+        <Services />
+        <Team />
       </main>
     </>
+  )
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+
+        <Route path="/" element={<Home />} />
+
+        <Route path="*" element={<NotFound />} />
+
+      </Routes>
+    </BrowserRouter>
   )
 }
 
