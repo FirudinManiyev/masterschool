@@ -4,9 +4,20 @@
 /* body */
 
 body {
+    margin: 0;
     background: var(--color-bg);
     color: var(--color-text);
     font-family: system-ui, sans-serif;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+#root {
+    min-height: 100vh;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 /* container */
