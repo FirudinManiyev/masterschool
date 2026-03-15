@@ -89,5 +89,58 @@
             "Exam Preparation Specialist",
             "Academic Development Lead"
         ]
+    },
+    "results": {
+        "badge": "Results",
+        "title": "Student Results",
+        "subtitle": "The joy of our successful students is our greatest reward",
+        "statStudents": "500+",
+        "statStudentsLabel": "Successful Students",
+        "statRate": "98%",
+        "statRateLabel": "Acceptance Rate",
+        "statYears": "10+",
+        "statYearsLabel": "Years of Experience",
+        "statUniversities": "50+",
+        "statUniversitiesLabel": "Partner Universities",
+        "prev": "Previous",
+        "next": "Next",
+        "imageAlt": "Student result photo",
+        "dragHint": "Slide through photos"
+    },
+    "masterResults": {
+        "badge": "Master Results",
+        "title": "Graduate Results",
+        "subtitle": "Achievements of our students who delivered strong outcomes in graduate exam preparation",
+        "statStudents": "300+",
+        "statStudentsLabel": "Successful Graduates",
+        "statRate": "96%",
+        "statRateLabel": "Acceptance Rate",
+        "statYears": "8+",
+        "statYearsLabel": "Years of Experience",
+        "statUniversities": "40+",
+        "statUniversitiesLabel": "Universities",
+        "prev": "Previous",
+        "next": "Next",
+        "imageAlt": "Graduate result photo",
+        "dragHint": "Slide through photos"
+    },
+    "partners": {
+        "title": "Our Partners",
+        "subtitle": "Strategic institutions we collaborate with to build a stronger education ecosystem",
+        "chipAcademic": "Academic partner",
+        "chipCareer": "Career partner",
+        "more": "Collaboration Partner",
+        "cards": {
+            "bdu": {
+                "name": "BDU",
+                "desc": "Our trusted partner for joint academic projects and student development initiatives.",
+                "alt": "BDU partner logo"
+            },
+            "unec": {
+                "name": "UNEC",
+                "desc": "Our partner in innovative programs, modern disciplines, and career-oriented learning pathways.",
+                "alt": "UNEC partner logo"
+            }
+        }
     }
 }

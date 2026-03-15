@@ -90,5 +90,58 @@
             "İmtahan hazırlığı üzrə mütəxəssis",
             "Akademik inkişaf rəhbəri"
         ]
+    },
+    "results": {
+        "badge": "Nəticələr",
+        "title": "Abituriyent Nəticələri",
+        "subtitle": "Uğurlu tələbələrimizin sevinci bizim ən böyük mükafatımızdır",
+        "statStudents": "500+",
+        "statStudentsLabel": "Uğurlu Abituriyent",
+        "statRate": "98%",
+        "statRateLabel": "Qəbul Faizi",
+        "statYears": "10+",
+        "statYearsLabel": "İllik Təcrübə",
+        "statUniversities": "50+",
+        "statUniversitiesLabel": "Tərəfdaş Universitet",
+        "prev": "Əvvəlki",
+        "next": "Növbəti",
+        "imageAlt": "Abituriyent nəticə şəkli",
+        "dragHint": "Şəkilləri sürüşdürün"
+    },
+    "masterResults": {
+        "badge": "Master Nəticələri",
+        "title": "Magistratura Nəticələri",
+        "subtitle": "Magistratura hazırlığında yüksək nəticə göstərən tələbələrimizin uğurları",
+        "statStudents": "300+",
+        "statStudentsLabel": "Uğurlu Magistr",
+        "statRate": "96%",
+        "statRateLabel": "Qəbul Faizi",
+        "statYears": "8+",
+        "statYearsLabel": "İllik Təcrübə",
+        "statUniversities": "40+",
+        "statUniversitiesLabel": "Universitet",
+        "prev": "Əvvəlki",
+        "next": "Növbəti",
+        "imageAlt": "Magistratura nəticə şəkli",
+        "dragHint": "Şəkilləri sürüşdürün"
+    },
+    "partners": {
+        "title": "Partnyorlarımız",
+        "subtitle": "Birlikdə daha güclü təhsil ekosistemi qurduğumuz strateji tərəfdaşlarımız",
+        "chipAcademic": "Akademik tərəfdaş",
+        "chipCareer": "Karyera tərəfdaşı",
+        "more": "Əməkdaşlıq tərəfdaşı",
+        "cards": {
+            "bdu": {
+                "name": "BDU",
+                "desc": "Akademik istiqamətlərdə birgə layihələr və tələbə inkişaf proqramları üçün etibarlı tərəfdaşımız.",
+                "alt": "BDU partnyor loqosu"
+            },
+            "unec": {
+                "name": "UNEC",
+                "desc": "Müasir ixtisaslar, innovativ tədris yanaşması və peşəkar karyera hazırlığı üzrə əməkdaşımız.",
+                "alt": "UNEC partnyor loqosu"
+            }
+        }
     }
 }

@@ -1,11 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-
 import Navbar from "./components/layout/Navbar/Navbar"
 import Hero from "./sections/hero/Hero"
 import About from "./sections/about/About"
 import Services from "./sections/services/Services"
 import Team from "./sections/team/Team"
-
+import Partners from "./sections/partners/Partners"
+import Results from "./sections/results/Results"
+import MasterResults from "./sections/masterResults/MasterResults"
 import NotFound from "./pages/NotFound"
 
 function Home() {
@@ -17,6 +18,9 @@ function Home() {
         <About />
         <Services />
         <Team />
+        <Partners />
+        <Results />
+        <MasterResults />
       </main>
     </>
   )
