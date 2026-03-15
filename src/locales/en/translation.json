@@ -5,6 +5,7 @@
         "services": "Services",
         "team": "Team",
         "faq": "FAQ",
+        "branches": "Branches",
         "contact": "Contact",
         "logoAlt": "MasterSchool logo",
         "changeLanguageAria": "Change language",
@@ -124,8 +125,77 @@
         "imageAlt": "Graduate result photo",
         "dragHint": "Slide through photos"
     },
+    "publications": {
+        "badge": "Publications",
+        "title": "Our Educational Publications",
+        "subtitle": "Modern study materials, subject collections, and exam-oriented publications prepared by our team",
+        "cta": "Educational edition",
+        "cards": {
+            "abituriyent": {
+                "category": "Admission",
+                "title": "University Admission",
+                "desc": "A structured publication aligned with admission requirements and result-focused practice blocks.",
+                "alt": "Admission publication"
+            },
+            "doktorantura": {
+                "category": "English",
+                "title": "Doctoral English",
+                "desc": "An academic English publication supported with exam-style tasks and focused preparation.",
+                "alt": "Doctoral English publication"
+            },
+            "magistrEnglish": {
+                "category": "English",
+                "title": "Graduate English",
+                "desc": "Vocabulary, grammar, and practical test sections tailored for graduate exam preparation.",
+                "alt": "Graduate English publication"
+            },
+            "informatika": {
+                "category": "Informatics",
+                "title": "Informatics Collection",
+                "desc": "Topic summaries, explained questions, and staged exercises in a concise study format.",
+                "alt": "Informatics publication"
+            },
+            "logic": {
+                "category": "Logic",
+                "title": "Logic Collection",
+                "desc": "Analytical reasoning tasks, time-saving techniques, and curated question sets by difficulty.",
+                "alt": "Logic publication"
+            },
+            "mentiq": {
+                "category": "Reasoning",
+                "title": "Reasoning Practice",
+                "desc": "A logic-focused collection with guided explanations and targeted practice for multiple levels.",
+                "alt": "Reasoning publication"
+            },
+            "magistrRussian": {
+                "category": "Russian Track",
+                "title": "Graduate Russian",
+                "desc": "Graduate preparation material adapted for the Russian track with model exercises.",
+                "alt": "Graduate Russian publication"
+            },
+            "tarix": {
+                "category": "History",
+                "title": "History Collection",
+                "desc": "Chronological summaries, topic-based reviews, and strong revision content for exam readiness.",
+                "alt": "History publication"
+            }
+        }
+    },
+    "branches": {
+        "badge": "Branches",
+        "title": "Our Branches",
+        "subtitle": "Our locations across Baku – quality education from the nearest point to you",
+        "prev": "Previous",
+        "next": "Next",
+        "cards": {
+            "branch1": { "name": "28 May", "phone": "+994 10 310 33 43", "address": "Nizami St. 203B, Af Business House, 5th floor" },
+            "branch2": { "name": "Mida", "phone": "+994 70 610 33 43", "address": "Yasamal district, MIDA residential complex, building 3 (near schools 133 and 161)" },
+            "branch3": { "name": "Elmlər", "phone": "+994 77 537 24 51", "address": "30a Zahid Khalilov St., Baku" },
+            "branch4": { "name": "Hövsan", "phone": "+994 70 957 58 78", "address": "Hovsan settlement, Baku" },
+            "branch5": { "name": "Günəşli", "phone": "+994 70 678 55 75", "address": "Surakhani district, New Gunashli settlement, Samir Jafarov St., opposite the 33rd police station" }
+        }
+    },
     "partners": {
-        "title": "Our Partners",
         "subtitle": "Strategic institutions we collaborate with to build a stronger education ecosystem",
         "chipAcademic": "Academic partner",
         "chipCareer": "Career partner",

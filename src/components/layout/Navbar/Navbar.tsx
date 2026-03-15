@@ -42,7 +42,7 @@ const Navbar = () => {
                     <a href="#about" className="nav-link">{t("navbar.about")}</a>
                     <a href="#services" className="nav-link">{t("navbar.services")}</a>
                     <a href="#team" className="nav-link">{t("navbar.team")}</a>
-                    <a href="#faq" className="nav-link">{t("navbar.faq")}</a>
+                    <a href="#branches" className="nav-link">{t("navbar.branches")}</a>
                 </nav>
 
                 <div className="flex items-center gap-2 md:gap-3">
@@ -117,7 +117,7 @@ const Navbar = () => {
                             <a href="#about" onClick={() => setMenuOpen(false)}>{t("navbar.about")}</a>
                             <a href="#services" onClick={() => setMenuOpen(false)}>{t("navbar.services")}</a>
                             <a href="#team" onClick={() => setMenuOpen(false)}>{t("navbar.team")}</a>
-                            <a href="#faq" onClick={() => setMenuOpen(false)}>{t("navbar.faq")}</a>
+                            <a href="#branches" onClick={() => setMenuOpen(false)}>{t("navbar.branches")}</a>
                             <a
                                 href="#contact"
                                 className="mt-2 inline-flex w-full items-center justify-center rounded-lg bg-blue-600 px-6 py-2 font-semibold text-white"

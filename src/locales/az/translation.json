@@ -125,8 +125,77 @@
         "imageAlt": "Magistratura nəticə şəkli",
         "dragHint": "Şəkilləri sürüşdürün"
     },
+    "publications": {
+        "badge": "Nəşrlərimiz",
+        "title": "Tədris Nəşrlərimiz",
+        "subtitle": "Fənn və istiqamətlər üzrə hazırladığımız müasir nəşrlər, proqramlar və tədris materialları",
+        "cta": "Tədris nəşri",
+        "cards": {
+            "abituriyent": {
+                "category": "Abituriyent",
+                "title": "Abituriyent Hazırlığı",
+                "desc": "Qəbul proqramına uyğun strukturlaşdırılmış mövzular və sınaq yönümlü çalışma materialı.",
+                "alt": "Abituriyent nəşri"
+            },
+            "doktorantura": {
+                "category": "English",
+                "title": "Doktorantura English",
+                "desc": "Akademik ingilis dili və imtahan yönümlü tapşırıqlarla dəstəklənmiş nəşr.",
+                "alt": "Doktorantura üçün ingilis dili nəşri"
+            },
+            "magistrEnglish": {
+                "category": "English",
+                "title": "Magistr English",
+                "desc": "Magistratura imtahanı üçün söz ehtiyatı, qrammatika və praktiki test blokları.",
+                "alt": "Magistratura üçün ingilis dili nəşri"
+            },
+            "informatika": {
+                "category": "İnformatika",
+                "title": "İnformatika Toplusu",
+                "desc": "Mövzu xülasələri, izahlı suallar və mərhələli tapşırıqlarla hazırlanmış kitabça.",
+                "alt": "İnformatika nəşri"
+            },
+            "logic": {
+                "category": "Logic",
+                "title": "Logic Collection",
+                "desc": "Analitik düşüncə, sürətli həll texnikaları və çətinlik səviyyəsinə görə seçilmiş suallar.",
+                "alt": "Logic nəşri"
+            },
+            "mentiq": {
+                "category": "Məntiq",
+                "title": "Məntiq Toplusu",
+                "desc": "Abituriyent və magistrlər üçün izahlı məntiq tapşırıqları və mövzu yönlü testlər.",
+                "alt": "Məntiq nəşri"
+            },
+            "magistrRussian": {
+                "category": "Rus bölməsi",
+                "title": "Magistr Rus Dili",
+                "desc": "Rus bölməsi üçün uyğunlaşdırılmış magistratura materialı və model tapşırıqlar.",
+                "alt": "Rus dilində magistratura nəşri"
+            },
+            "tarix": {
+                "category": "Tarix",
+                "title": "Tarix Toplusu",
+                "desc": "Dövr və mövzu əsaslı izahlar, xronoloji sxemlər və güclü təkrarlama bloku.",
+                "alt": "Tarix nəşri"
+            }
+        }
+    },
+    "branches": {
+        "badge": "Filiallar",
+        "title": "Filiallarımız",
+        "subtitle": "Bakı daxilindəki filiallarımız – sizə ən yaxın nöqtədən keyfiyyətli təhsil",
+        "prev": "Əvvəlki",
+        "next": "Növbəti",
+        "cards": {
+            "branch1": { "name": "28 May", "phone": "+994 10 310 33 43", "address": "Nizami Küç. 203B, Af Business House 5.ci mərtəbə" },
+            "branch2": { "name": "Mida", "phone": "+994 70 610 33 43", "address": "Yasamal rayonu, MİDA yaşayış kompleksi, bina 3 (133 və 161 saylı məktəblərin yaxınlığı)" },
+            "branch3": { "name": "Elmlər", "phone": "+994 77 537 24 51", "address": "30a Zahid Xəlilov Küçəsi, Bakı" },
+            "branch4": { "name": "Hövsan", "phone": "+994 70 957 58 78", "address": "Hövsan qəsəbəsi" },
+            "branch5": { "name": "Günəşli", "phone": "+994 70 678 55 75", "address": "Suraxanı rayonu, Yeni Günəşli qəsəbəsi, Samir Cəfərov küçəsi, 33-cü polis bölməsi ilə üzbəüz" }
+        }
+    },
     "partners": {
-        "title": "Partnyorlarımız",
         "subtitle": "Birlikdə daha güclü təhsil ekosistemi qurduğumuz strateji tərəfdaşlarımız",
         "chipAcademic": "Akademik tərəfdaş",
         "chipCareer": "Karyera tərəfdaşı",

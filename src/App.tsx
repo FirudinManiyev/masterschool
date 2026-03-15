@@ -7,6 +7,8 @@ import Team from "./sections/team/Team"
 import Partners from "./sections/partners/Partners"
 import Results from "./sections/results/Results"
 import MasterResults from "./sections/masterResults/MasterResults"
+import Publications from "./sections/publications/Publications"
+import Branches from "./sections/branches/Branches"
 import NotFound from "./pages/NotFound"
 
 function Home() {
@@ -19,8 +21,10 @@ function Home() {
         <Services />
         <Team />
         <Partners />
+        <Branches />
         <Results />
         <MasterResults />
+        <Publications />
       </main>
     </>
   )
