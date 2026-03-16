@@ -195,7 +195,31 @@
             "branch5": { "name": "Günəşli", "phone": "+994 70 678 55 75", "address": "Surakhani district, New Gunashli settlement, Samir Jafarov St., opposite the 33rd police station" }
         }
     },
+    "contact": {
+        "badge": "Contact",
+        "title": "Get in Touch",
+        "subtitle": "Have a question, inquiry, or suggestion? Feel free to reach out to us anytime.",
+        "infoPhone": "Phone",
+        "infoEmail": "Email",
+        "infoHours": "Working Hours",
+        "hoursValue": "Monday – Saturday: 08:30 – 20:00",
+        "form": {
+            "name": "Full Name",
+            "namePlaceholder": "Enter your name",
+            "email": "Email",
+            "emailPlaceholder": "Enter your email address",
+            "subject": "Subject",
+            "subjectPlaceholder": "What is your inquiry about?",
+            "message": "Message",
+            "messagePlaceholder": "Write your message here...",
+            "send": "Send Message",
+            "sending": "Sending...",
+            "success": "Your message was sent successfully!",
+            "error": "Something went wrong. Please try again."
+        }
+    },
     "partners": {
+        "title": "Our Partners",
         "subtitle": "Strategic institutions we collaborate with to build a stronger education ecosystem",
         "chipAcademic": "Academic partner",
         "chipCareer": "Career partner",
@@ -211,6 +235,25 @@
                 "desc": "Our partner in innovative programs, modern disciplines, and career-oriented learning pathways.",
                 "alt": "UNEC partner logo"
             }
+        }
+    },
+    "footer": {
+        "description": "Build your knowledge, growth, and success journey with MasterSchool.",
+        "quickLinks": "Quick Links",
+        "contactTitle": "Contact Info",
+        "address": "Nizami Street 203B, AF Business House, 5th floor",
+        "newsletterTitle": "Updates",
+        "newsletterText": "Be the first to hear about new courses and announcements.",
+        "newsletterPlaceholder": "Your email address",
+        "subscribe": "Subscribe",
+        "copyright": "© {{year}} Millisoft. All rights reserved.",
+        "links": {
+            "home": "Home",
+            "about": "About",
+            "services": "Services",
+            "team": "Team",
+            "branches": "Branches",
+            "contact": "Contact"
         }
     }
 }

@@ -195,7 +195,31 @@
             "branch5": { "name": "Günəşli", "phone": "+994 70 678 55 75", "address": "Suraxanı rayonu, Yeni Günəşli qəsəbəsi, Samir Cəfərov küçəsi, 33-cü polis bölməsi ilə üzbəüz" }
         }
     },
+    "contact": {
+        "badge": "Əlaqə",
+        "title": "Bizimlə Əlaqə",
+        "subtitle": "Suallarınız, müraciətləriniz və ya təklifləriniz üçün bizimlə əlaqə saxlaya bilərsiniz.",
+        "infoPhone": "Telefon",
+        "infoEmail": "E-poçt",
+        "infoHours": "İş Saatları",
+        "hoursValue": "Bazar ertəsi – Şənbə: 08:30 – 20:00",
+        "form": {
+            "name": "Ad Soyad",
+            "namePlaceholder": "Adınızı daxil edin",
+            "email": "E-poçt",
+            "emailPlaceholder": "E-poçt ünvanınızı daxil edin",
+            "subject": "Mövzu",
+            "subjectPlaceholder": "Müraciətin mövzusu",
+            "message": "Mesaj",
+            "messagePlaceholder": "Mesajınızı yazın...",
+            "send": "Göndər",
+            "sending": "Göndərilir...",
+            "success": "Mesajınız uğurla göndərildi!",
+            "error": "Xəta baş verdi. Zəhmət olmasa yenidən cəhd edin."
+        }
+    },
     "partners": {
+        "title": "Tərəfdaşlarımız",
         "subtitle": "Birlikdə daha güclü təhsil ekosistemi qurduğumuz strateji tərəfdaşlarımız",
         "chipAcademic": "Akademik tərəfdaş",
         "chipCareer": "Karyera tərəfdaşı",
@@ -211,6 +235,25 @@
                 "desc": "Müasir ixtisaslar, innovativ tədris yanaşması və peşəkar karyera hazırlığı üzrə əməkdaşımız.",
                 "alt": "UNEC partnyor loqosu"
             }
+        }
+    },
+    "footer": {
+        "description": "MasterSchool ilə bilik, inkişaf və uğur yoluna inamla addımlayın.",
+        "quickLinks": "Sürətli Keçidlər",
+        "contactTitle": "Əlaqə Məlumatı",
+        "address": "Nizami küçəsi 203B, AF Business House, 5-ci mərtəbə",
+        "newsletterTitle": "Yeniliklər",
+        "newsletterText": "Yeni kurslar və elanlar haqqında ilk məlumat alanlardan olun.",
+        "newsletterPlaceholder": "E-poçt ünvanınız",
+        "subscribe": "Abunə ol",
+        "copyright": "© {{year}} Millisoft. Bütün hüquqlar qorunur.",
+        "links": {
+            "home": "Ana səhifə",
+            "about": "Haqqımızda",
+            "services": "Xidmətlər",
+            "team": "Komanda",
+            "branches": "Filiallar",
+            "contact": "Əlaqə"
         }
     }
 }

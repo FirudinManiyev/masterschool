@@ -9,6 +9,8 @@ import Results from "./sections/results/Results"
 import MasterResults from "./sections/masterResults/MasterResults"
 import Publications from "./sections/publications/Publications"
 import Branches from "./sections/branches/Branches"
+import Contact from "./sections/contact/Contact"
+import Footer from "./sections/footer/Footer"
 import NotFound from "./pages/NotFound"
 
 function Home() {
@@ -25,7 +27,9 @@ function Home() {
         <Results />
         <MasterResults />
         <Publications />
+        <Contact />
       </main>
+      <Footer />
     </>
   )
 }
