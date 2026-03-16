@@ -12,6 +12,8 @@ import Branches from "./sections/branches/Branches"
 import Contact from "./sections/contact/Contact"
 import Footer from "./sections/footer/Footer"
 import NotFound from "./pages/NotFound"
+import ScrollToTop from "./components/ScrollToTop"
+import WhatsAppButton from "./components/WhatsAppButton"
 
 function Home() {
   return (
@@ -30,6 +32,8 @@ function Home() {
         <Contact />
       </main>
       <Footer />
+      <ScrollToTop />
+      <WhatsAppButton />
     </>
   )
 }

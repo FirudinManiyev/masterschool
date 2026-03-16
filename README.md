@@ -34,7 +34,7 @@ Layihənin əsas xüsusiyyətləri:
 
 ## Sections (Planned)
 
-Landing page aşağıdakı bölmələrdən ibarət olacaq:
+Landing page aşağıdakı bölmələrdən ibarətdir:
 
 - Hero section
 - Haqqımızda
@@ -42,7 +42,8 @@ Landing page aşağıdakı bölmələrdən ibarət olacaq:
 - Üstünlüklər
 - Müəllimlər və ya komanda
 - Rəylər (Testimonials)
-- FAQ
+- Abituriyentlər
+- Magistrlar
 - Əlaqə bölməsi
 - Footer
 
